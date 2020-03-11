@@ -16,7 +16,7 @@ https://wordpress-media-library.oss-cn-shanghai.aliyuncs.com/Shadowrocket%202.1.
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.shadowrocket</string>
+<string>com.shijunyi.Shadowrocket</string>
 <key>bundle-version</key>
 <string>2.2.50</string>
 <key>kind</key>
