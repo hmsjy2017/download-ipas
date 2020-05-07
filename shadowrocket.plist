@@ -11,7 +11,8 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://gbox.run/Public/apps/GBox_v2.7.ipa</string>
+					<string>https://wordpress-media-library.oss-cn-shanghai.aliyuncs.com/Shadowrocket%202.1.50.ipa
+</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +30,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.es.tbr</string>
+				<string>com.liguangming.Shadowrocket</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>GBox</string>
+				<string>Shadowrocket</string>
 			</dict>
 		</dict>
 	</array>
